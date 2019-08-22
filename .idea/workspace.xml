@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1da4a10f-2077-4f71-90dc-bf1c360a670c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/controller/DashBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/controller/DashBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/service/UserDetailsServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/src/main/java/com/stackroute/jwtauthentication/service/UserDetailsServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt-login-angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-login-angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt-login-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-login-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt-login-angular/src/app/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-login-angular/src/app/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt-login-angular/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-login-angular/src/app/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt-login-angular/src/app/userservice.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-login-angular/src/app/userservice.service.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Pk5MenUvpcy3yErEEUJfj3ulK0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JwtAuthenticationApplication">
+    <configuration name="JwtAuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.jwtauthentication.JwtAuthenticationApplication" />
+      <module name="jwt-authentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.jwtauthentication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginUsingJwtApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.loginusingjwt.LoginUsingJwtApplication" />
+      <module name="login-using-jwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.loginusingjwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JwtAuthenticationApplication" />
+        <item itemvalue="Application.LoginUsingJwtApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1da4a10f-2077-4f71-90dc-bf1c360a670c" name="Default Changelist" comment="" />
+      <created>1566405206495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566405206495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
